@@ -5,7 +5,7 @@
 
 ## About
 
-Final project for Hackreactor 2021. The Project involved working with a client to develop a full-stack app from the ground up. MentorUp is a web application to schedule, plan, and track online mentorship. User are flexible to be a mentor or mentee, you can find every single course you fell intrested to attend and message your mentor for further infomation.
+Final project for Hackreactor 2021. The Project involved working with a client to develop a full-stack app from the ground up. MentorUp is a web application to schedule, plan, and track online mentorship. User are flexible to be a mentor to teach or a mentee to learn new knowledge, you can find every single course you fell intrested to attend and message your mentor for further infomation.
 
 ## Requirements
 
