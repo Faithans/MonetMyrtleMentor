@@ -16,9 +16,9 @@ Final project for Hackreactor 2021. The Project involved working with a client t
 1. Clone this repository
 2. Using the terminal navigate inside the repository
 3. run `npm install` to install the required dependencies
-4. run `npm run build` or to build the project with either development or production settings and serve the resulting build on `localhost:3000`
+4. run `npm run start` & `npm run build` or to build the project with either development or production settings and serve the resulting build on `localhost:3000`
 
 ## Usage
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HLhvpfoR7Nc/0.jpg)](https://youtu.be/HLhvpfoR7Nc "Video Title")
+This is a demo video for how to use MentorUP
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HLhvpfoR7Nc/0.jpg)](https://youtu.be/HLhvpfoR7Nc "MentorUP")
 
